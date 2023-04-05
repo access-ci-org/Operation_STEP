@@ -7,7 +7,9 @@
 | 18:00 | Dinner | Networking and Nurishment | All |
 | 19:30 | ACCESS Account Creation | Prepare ACCESS Accounts for Course | Vasi and Rob |
 
-## Slides
+## Presentation Materials
 
-## Helpful Links
+## Lesson Resources (Hands on Activities)
+
+## Other Helpful Links
 * [Access User Registration](https://identity.access-ci.org/new-user.html)
