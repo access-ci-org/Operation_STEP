@@ -5,7 +5,7 @@
 | 17:00 | Welcome and Orientation | Orient Students with STEPs Program | Winona, JP, Derek, Alex, Tim | |
 | 17:30 | Local Hosts Introduce PICO | Introduction of Host Institution | Vasi |
 | 18:00 | Dinner | Networking and Nurishment | All |
-| 19:30 | ACCESS Account Creation | Prepare ACCESS Accounts for Course | Vasi and Rob |
+| 19:30 | ACCESS Account Creation and SSH Client Installation | Prepare ACCESS Accounts for Course | Vasi and Rob |
 
 ## Presentation Materials
 
@@ -13,3 +13,4 @@
 
 ## Other Helpful Links
 * [Access User Registration](https://identity.access-ci.org/new-user.html)
+* [Installing SSH on Windows](https://petri.com/the-ultimate-guide-to-installing-openssh-on-windows/)
