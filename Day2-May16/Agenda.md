@@ -1,4 +1,4 @@
-# Day One - May 16 - Open and Responsible Research and Unix 
+# Day Two - May 16 - Open and Responsible Research and Unix 
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
