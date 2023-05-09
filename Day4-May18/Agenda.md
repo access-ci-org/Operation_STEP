@@ -1,5 +1,5 @@
 
-# Day Four - May 18 - Git and Python
+# Day Four - May 18 - AI, ML, and CI
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
