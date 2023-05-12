@@ -1,8 +1,7 @@
 # How to use
 
-1. Edit Ubuntu22.auto.tfvars to set the name of your jetstream keypair and changed the vm flavor.
-2. Edit security.tf and replace the security group name with your ACCESS username
-3. Run ``` terraform apply``` and review the changes
+1. Edit Ubuntu22.auto.tfvars to set the name of your jetstream 2 keypair, flavor if needed, and set your access username.
+2. Run ``` terraform apply``` and review the changes
 
 ## Instance 1
 
