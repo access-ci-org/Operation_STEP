@@ -7,7 +7,7 @@
 | 20m      | context and orientation              |
 | 10m      | creating and cloning a git repo      |
 | 20m      | recording changes                    |
-| 10m      | looking at history                   |
+| 10m      | studying history                     |
 | 10m      | break                                |
 | 15m      | working with servers                 |
 | 20m      | contributing to a software project   |
