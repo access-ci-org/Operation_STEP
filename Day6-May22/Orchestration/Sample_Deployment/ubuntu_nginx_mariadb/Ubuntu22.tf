@@ -14,7 +14,7 @@ resource "openstack_compute_floatingip_associate_v2" "ubuntu22_float" {
 }
 
 resource "openstack_compute_instance_v2" "ubuntu22" {
-  name = "!! Replace-me!!-nginx"
+  name =  "${var.access_user_id}-nginx"
   # ID of JS-API-Featured-ubuntu22-Latest
   image_name = "Featured-Ubuntu22"
   flavor_id  = var.flavor_id

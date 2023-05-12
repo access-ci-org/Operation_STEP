@@ -6,3 +6,7 @@ variable "flavor_id" {
 variable "key_pair" {
   default = ""
 }
+
+variable "access_user_id" {
+  default = ""
+}

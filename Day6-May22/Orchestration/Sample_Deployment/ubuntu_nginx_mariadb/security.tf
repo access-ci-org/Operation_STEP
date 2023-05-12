@@ -4,7 +4,7 @@
 #creating security group
 
 resource "openstack_networking_secgroup_v2" "ssh_ping_security_group" {
-  name        = "!!your username here!!-ssh-icmp"
+  name        = "${var.access_user_id}-ssh-icmp"
   description = "This allows ssh and ICMP packets into the instance"
 }
 
@@ -27,7 +27,7 @@ resource "openstack_networking_secgroup_rule_v2" "ICMP_security_rule" {
 }
 
 resource "openstack_networking_secgroup_v2" "http_https_security_group" {
-  name        = "!!your username here!!-http/s"
+  name        = "${var.access_user_id}-http/s"
   description = "This allows http (80) and https (443) traffic into the instance."
 }
 
