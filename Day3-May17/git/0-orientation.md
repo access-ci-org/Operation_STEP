@@ -216,6 +216,7 @@ GitHub is not Git.
   - Access control
   - Collaboration features (issues, wiki)
   - Code review (pull requests)
+  - Etc.
 
 <!--
 We can hold hands and say it together.
