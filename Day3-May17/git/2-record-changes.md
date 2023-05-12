@@ -72,7 +72,7 @@ The *staging area* is where you move a set of changes that you're about to commi
 When you save a file in your code editor, your changes are in the working tree.
 -->
 
-
+---
 
 ## Exercise: Add to Staging Area
 
@@ -85,6 +85,7 @@ $ git status
 Git will show an untracked file
 -->
 
+---
 
 ## Exercise: Commit your Changes
 
@@ -96,6 +97,8 @@ $ git status
 <!--
 You'll see your first commit!
 -->
+
+---
 
 ## Exercise: `git diff` to view Unstaged, Staged, and Committed changes
 
@@ -128,6 +131,8 @@ $ git status
 <!--
 Remember you can run `git status` at any time for an overview of what's going on.
 -->
+
+---
 
 ## Review: Staging area
 
