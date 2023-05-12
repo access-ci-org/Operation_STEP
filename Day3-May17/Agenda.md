@@ -9,6 +9,8 @@
 
 ## Presentation Materials
 
+[Git workshop modules](git/)
+
 ## Lesson Resources (Hands on Activities)
 
 ## Other Helpful Links
