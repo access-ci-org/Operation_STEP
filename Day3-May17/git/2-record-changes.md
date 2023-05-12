@@ -22,6 +22,8 @@ $ git status
 
 <!--
 Git will show an untracked file
+
+You'll notice we're working with text, not source code. This simplifies the session a bit. Git sees no fundamental difference between source and plain text. It works the same with code.
 -->
 
 ---
