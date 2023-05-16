@@ -9,8 +9,8 @@
 | 20m      | recording changes                    |
 | 10m      | studying history                     |
 | 10m      | break                                |
-| 15m      | working with servers                 |
-| 20m      | contributing to a software project   |
+| 20m      | working with servers                 |
+| 15m      | contributing to a software project   |
 | 15m      | bonus material / Q&A as time permits |
 
 <!--
