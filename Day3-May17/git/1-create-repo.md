@@ -1,12 +1,23 @@
 # Git Workshop: Creating and Cloning a Repository
 
+## Helpful Shell Skills
+
+- `cd` to change directory
+- `pwd` to show the current working directory
+- _Copying text out of your terminal, and pasting it in_
+- Text editor (e.g. `nano`)
+
+<!--
+Let's take a minute to review these if anyone is unsure about them.
+-->
+
 ## Exercise: Ensure Git is Installed
 
 ```shell
 git help
 ```
 
-(`help` accepts subcommands, e.g. `git clone --help`, but LOTS of detail in here)
+(`help` accepts subcommands, e.g. `git clone --help`, but shows LOTS of detail)
 
 ---
 

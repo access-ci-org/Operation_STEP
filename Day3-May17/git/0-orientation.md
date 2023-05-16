@@ -1,5 +1,11 @@
 # Git Workshop: Orientation
 
+![XKCD comic about git](media/xkcd-1597.png)
+
+([XKCD #1597](https://xkcd.com/1597/))
+
+---
+
 ## Agenda
 
 | Duration | Module                               |
@@ -21,7 +27,7 @@ On your own or for school?
 Who here knows what Git does? Not GitHub, just Git.
 Who here has used Git?
 
-Consider pairing students per experience
+Consider pairing students per experience.
 -->
 
 ---
@@ -125,7 +131,7 @@ Git provides a way to _track changes to a directory of files_.
 - With multiple authors changing the same files
 - With meaningful annotations of change sets
 - With different branches of history that can diverge and converge
-- Helps you notice and resolve conflicting changes
+- Helps you avoid, notice, and resolve conflicting changes
 - Guarantees you will notice corruption of (or tampering with) history
 
 ---
@@ -195,12 +201,32 @@ This workshop is the briefest introduction. You will leave knowing barely enough
 
 ---
 
+## Git for Text and Docs
+
+Git not only works for source code, but also:
+
+- Documentation
+  - Markdown
+  - LaTeX manuscripts
+  - mkdocs, Read The Docs
+- Configuration files
+- Data science (i.e. Jupyter) notebooks
+- Anything that looks like plain text!
+
+<!--
+This workshop is written entirely in Markdown and tracked in Git. (show source)
+
+Learn to love plaintext and Markdown. You may die inside a little when someone wants to collaborate using a Google Doc.
+-->
+
+---
+
 ## Ecosystem of Git-based Workflows
 
 - Pull/merge requests
 - Continuous integration (CI) and deployment (CD)
 - DevOps
-- Website publishing
+- Website and documentation publishing
 
 ---
 
