@@ -8,4 +8,4 @@ RUN apk add --update py3-pip
 COPY diceroll.py /usr/src/diceroll/
 
 #Running the application
-CMD ["python3", "/usr/src/diceroll/diceroll.py"]
+CMD ["python3", "-u", "/usr/src/diceroll/diceroll.py"]
