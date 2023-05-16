@@ -6,11 +6,11 @@
 |----------|--------------------------------------|
 | 20m      | context and orientation              |
 | 10m      | creating and cloning a git repo      |
-| 20m      | committing changes                   |
-| 10m      | looking at history                   |
+| 20m      | recording changes                    |
+| 10m      | studying history                     |
 | 10m      | break                                |
-| 15m      | working with servers                 |
-| 20m      | contributing to a software project   |
+| 20m      | working with servers                 |
+| 15m      | contributing to a software project   |
 | 15m      | bonus material / Q&A as time permits |
 
 <!--
@@ -216,6 +216,7 @@ GitHub is not Git.
   - Access control
   - Collaboration features (issues, wiki)
   - Code review (pull requests)
+  - Etc.
 
 <!--
 We can hold hands and say it together.
