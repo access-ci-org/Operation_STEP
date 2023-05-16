@@ -10,9 +10,10 @@
 ## Presentation Materials
    * [Open and Responsible Research Slides](https://docs.google.com/presentation/d/1N4lxv9MVOK6Q9rCgi0wZWWmXoGXaThr7/edit?usp=sharing&ouid=110678776512411560114&rtpof=true&sd=true)
 ## Lesson Resources (Hands on Activities)
+   * [ACCESS-CI Code of Conduct](https://access-ci.org/code-of-conduct/)
 
 ## Other Helpful Links
-[Software Carpentry Lesson](https://swcarpentry.github.io/shell-novice/)
-[Research Data Alliemce](https://rd-alliance.org/node)
-[CODATA](www.codata.org/)
+   * [Software Carpentry Lesson](https://swcarpentry.github.io/shell-novice/)
+   * [Research Data Alliemce](https://rd-alliance.org/node)
+   * [CODATA](www.codata.org/)
 
