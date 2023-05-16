@@ -30,6 +30,8 @@ There is another way to authenticate to GitHub from the CLI, using an SSH keypai
 
 - Browse to <https://github.com/c-mart/git-workshop>
 - Click the "fork" button
+- If you see an "owner" dropdown menu, ensure _your_ GitHub username is selected
+- Click "Create fork"
 
 ![fork a repository](media/github-fork-repo.png)
 
@@ -84,7 +86,15 @@ Remember that you're saving a file, adding it to the staging area, then making a
 ```shell
 $ git push
 Username for 'https://github.com': your-github-username
-Password for 'https://c-mart@github.com': 
+Password for 'https://c-mart@github.com':
+
+...
+
+remote: 
+remote: Create a pull request for 'main' on GitHub by visiting:
+remote:      https://github.com/c-mart/git-workshop/pull/new/main
+remote: 
+...
 ```
 
 - For password, use the personal access token you created earlier
