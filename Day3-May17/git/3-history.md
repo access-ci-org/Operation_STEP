@@ -120,10 +120,15 @@ This is _not_ the same habit as "I've made a lot of changes, time to save my fil
 It's more like, "I've made a lot of changes and saved my file. Let's structure these as a series of commits that make sense."
 -->
 
-## Git requires
+---
+
+## Recap
 
 - Git rewards disciplined and thoughtful use
 - You are writing the history of your project in a way that tells a logical story
+- But don't worry much about this when you're just learning!
+
+---
 
 ## Real-world Example
 
