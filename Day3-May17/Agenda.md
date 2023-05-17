@@ -14,4 +14,6 @@
 ## Lesson Resources (Hands on Activities)
 
 ## Other Helpful Links
-Software Carpentry Lesson - https://swcarpentry.github.io/git-novice/
+[Software Carpentry Git Lesson](https://swcarpentry.github.io/git-novice/)
+[Software Carpentry Into Python Lesson (supplemental)](https://swcarpentry.github.io/python-novice-inflammation/)
+[Software Carpentry Plotting Python Lesson (supplemental)](http://swcarpentry.github.io/python-novice-gapminder/)
