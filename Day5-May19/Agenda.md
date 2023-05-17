@@ -3,7 +3,7 @@
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
-| 10:00 | Computational Infrastructures | More about Computational Infrastructure | Rob |
+| 10:00 | Computational Infrastructures | More about Computational Infrastructure | Rob | PC414 |
 | 12:00 | Lunch | | | |
 | 13:00 | Wall of Wind | | | | 
 | 14:30 | Break | | | | 
