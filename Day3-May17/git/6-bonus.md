@@ -3,15 +3,17 @@
 ## Things to Learn Next
 
 - Work through <https://swcarpentry.github.io/git-novice>
-- Learn about Git's data model
-  - <https://eagain.net/articles/git-for-computer-scientists>
-  - <https://github.com/pluralsight/git-internals-pdf>
 - Learn how branches work
 - Learn how a merge works
+- Learn about Git's data model; everything else will make more sense
+  - <https://eagain.net/articles/git-for-computer-scientists>
+  - <https://github.com/pluralsight/git-internals-pdf>
 
 <!--
 When you understand the data model, concepts like branches and tags and merges are a lot less mysterious.
 -->
+
+---
 
 ## "I found this push-button Git app, it's so easy!"
 
@@ -25,7 +27,9 @@ Fine, but:
     - Rescuing lost commits from the reflog
     - Automated (scripted) use of Git
 
-If you avoid the CLI until you're in a pinch, you face the steepest learning curve at the worst possible time. If you build the CLI skills now, you'll become a total pro, and your skills will transfer to other tools. 😎
+If you avoid the CLI until you're in a pinch, you face the steepest learning curve at the worst possible time. If you build the CLI skills and habits now, you'll become a total pro, and your skills will transfer to other tools. 😎
+
+---
 
 ## Alternatives to GitHub
 
@@ -35,6 +39,8 @@ Call to action: let's not put all our eggs in Microsoft's basket!
 - Phabricator (open-source)
 - Gitea (open-source)
 - Bitbucket (proprietary, Atlassian)
+
+---
 
 ## Job Interview Advice
 
@@ -54,6 +60,8 @@ For a software/infra engineering job:
 - Weird / interesting
   - "We use Mercurial / Perforce"
     - Expect other less-mainstream tech choices too
+
+---
 
 ## About the Presenter
 
