@@ -65,7 +65,7 @@ For a software/infra engineering job:
 
 ## About the Presenter
 
-Chris Martin (a.k.a. cmart), Systems Engineer at Indiana University
+Chris Martin (a.k.a. cmart), Systems Engineer at Indiana University, cm10@iu.edu
 
 - "Informatics" undergrad at SUNY Buffalo (2010)
 - ~4 years working in Windows shops
