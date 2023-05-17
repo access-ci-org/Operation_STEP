@@ -10,6 +10,7 @@
 ## Presentation Materials
 
 [Git workshop modules](git/)
+
 [Python Slides](https://docs.google.com/presentation/d/175WGoY7wreqT4HSNsBNovBffI_prKIVgDwIgwCga84E/edit#slide=id.g23f49913e7f_0_9n)
 
 ## Lesson Resources (Hands on Activities)
