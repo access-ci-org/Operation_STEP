@@ -22,3 +22,5 @@
 [Software Carpentry Into Python Lesson (supplemental)](https://swcarpentry.github.io/python-novice-inflammation/)
 
 [Software Carpentry Plotting Python Lesson (supplemental)](http://swcarpentry.github.io/python-novice-gapminder/)
+
+[Python Lesson Repo](https://github.com/ricardo0129/PythonWorkshop)
