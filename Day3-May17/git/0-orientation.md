@@ -22,6 +22,8 @@
 <!--
 Times are squishy, we can adjust as it suits the group.
 
+Anyone can browse to this repo to see the presentation materials. If you look at the Markdown source (raw code view), you can see my speaker notes.
+
 Who here has ever worked on a programming project?
 On your own or for school?
 Who here knows what Git does? Not GitHub, just Git.
