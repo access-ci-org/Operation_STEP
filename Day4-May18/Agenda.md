@@ -9,6 +9,7 @@
 | 13:30 | Computational Infrastructures | Intro to CI | Rob | | 
 | 14:30 | Break | | | | 
 | 15:00 | Computational Infrastructures | Clusters and HPC | Rob | | 
+| 16:00 | Resource Provider Spotlight | Introduction to the PATh/OSG | Miron | |
 
 ## Presentation Materials
 
