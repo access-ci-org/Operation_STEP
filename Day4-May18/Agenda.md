@@ -14,7 +14,10 @@
 ## Presentation Materials
 [Ethics Review](https://docs.google.com/presentation/d/1DC4KrFLUR8m4oyu60zH2_HOYp2niIjRy/edit?usp=sharing&ouid=110678776512411560114&rtpof=true&sd=true)
 
-[Computational Infrastructures](url)
+[Computational Infrastructures](https://github.com/access-ci-org/Operation_STEP/blob/main/Day4-May18/ACCESS-CI-Lecture1.pdf)
 ## Lesson Resources (Hands on Activities)
 
 ## Other Helpful Links
+[ACCESS-CI](https://access-ci.org/)
+
+[PATh](https://path-cc.io/)
