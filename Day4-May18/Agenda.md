@@ -12,6 +12,8 @@
 | 16:00 | Resource Provider Spotlight | Introduction to the PATh/OSG | Miron | PC414 |
 
 ## Presentation Materials
+AI/ML Slides Coming Soon
+
 [Ethics Review](https://docs.google.com/presentation/d/1DC4KrFLUR8m4oyu60zH2_HOYp2niIjRy/edit?usp=sharing&ouid=110678776512411560114&rtpof=true&sd=true)
 
 [Computational Infrastructures](https://github.com/access-ci-org/Operation_STEP/blob/main/Day4-May18/ACCESS-CI-Lecture1.pdf)
