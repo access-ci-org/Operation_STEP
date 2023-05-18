@@ -12,7 +12,9 @@
 | 16:00 | Resource Provider Spotlight | Introduction to the PATh/OSG | Miron | PC414 |
 
 ## Presentation Materials
+[Ethics Review](https://docs.google.com/presentation/d/1DC4KrFLUR8m4oyu60zH2_HOYp2niIjRy/edit?usp=sharing&ouid=110678776512411560114&rtpof=true&sd=true)
 
+[Computational Infrastructures](url)
 ## Lesson Resources (Hands on Activities)
 
 ## Other Helpful Links
