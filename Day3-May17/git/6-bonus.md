@@ -6,8 +6,7 @@
 - Learn how branches work
 - Learn how a merge works
 - Learn about Git's data model; everything else will make more sense
-  - <https://eagain.net/articles/git-for-computer-scientists>
-  - <https://github.com/pluralsight/git-internals-pdf>
+  - <https://maryrosecook.com/blog/post/git-from-the-inside-out>
 
 <!--
 When you understand the data model, concepts like branches and tags and merges are a lot less mysterious.
