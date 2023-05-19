@@ -10,7 +10,7 @@
 ## Presentation Materials
 [XaaS Image](https://github.com/access-ci-org/Operation_STEP/blob/main/Day5-May19/XaaS.png)
 
-[Workflow Slides]()
+[Workflow Slides](https://github.com/access-ci-org/Operation_STEP/blob/main/Day5-May19/Workflows.pdf)
 
 ## Lesson Resources (Hands on Activities)
 [Colab Hands-on Exercise](https://github.com/access-ci-org/Operation_STEP/blob/main/Day5-May19/Colab_Regression_Spark.ipynb)
