@@ -1,5 +1,5 @@
 
-# Day Five - May 19 - CI in Action
+# Day Five - May 19 - Cyberinfrastrucutre Introduction (Continued)
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
