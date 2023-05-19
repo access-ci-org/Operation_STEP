@@ -8,7 +8,8 @@
 | 13:00 | Wall of Wind | Expereince Data Collection is Action | Vasi | | 
 
 ## Presentation Materials
-[XaaS Image]()
+[XaaS Image](https://github.com/access-ci-org/Operation_STEP/blob/main/Day5-May19/XaaS.png)
+
 [Workflow Slides]()
 
 ## Lesson Resources (Hands on Activities)
