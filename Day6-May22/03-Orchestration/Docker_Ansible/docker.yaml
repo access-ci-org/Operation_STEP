@@ -33,7 +33,8 @@
 
   - name: Adding users to docker group
     ansible.builtin.user:
-      name: "{{ user_list }}"
+      name: "{{ item }}"
       append: true
       groups: docker
       state: present
+    loop: "{{ user_list }}"
