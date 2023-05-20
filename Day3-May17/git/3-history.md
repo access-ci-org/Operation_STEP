@@ -28,6 +28,27 @@ It's a commit hash. It serves multiple purposes.
 
 ---
 
+## Commit Hash
+
+```
+88ff0fd3aefe48835e8b7c14ee6bea57ecb4bb12
+```
+
+Serves multiple purposes:
+
+- Identifier to look up a commit
+  - Like a street address for a house
+- Cryptographic checksum of entire repo history leading to that commit
+  - This is a blockchain technology!
+
+Don't try to type these. Copy and paste.
+
+<!--
+Using a hash as a lookup is called _content addressing_, or content-addressable storage
+-->
+
+---
+
 ## Exercise: Inspecting a Particular Commit
 
 Identify a commit by its hash!
@@ -98,6 +119,16 @@ This is _not_ the same habit as "I've made a lot of changes, time to save my fil
 
 It's more like, "I've made a lot of changes and saved my file. Let's structure these as a series of commits that make sense."
 -->
+
+---
+
+## Recap
+
+- Git rewards disciplined and thoughtful use
+- You are writing the history of your project in a way that tells a logical story
+- But don't worry much about this when you're just learning!
+
+---
 
 ## Real-world Example
 
