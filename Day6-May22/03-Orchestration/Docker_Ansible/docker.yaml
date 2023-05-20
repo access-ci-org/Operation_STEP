@@ -37,3 +37,7 @@
       append: true
       groups: docker
       state: present
+
+  - name: debug
+    ansible.builtin.debug:
+      msg: User list {{ user_list }}
