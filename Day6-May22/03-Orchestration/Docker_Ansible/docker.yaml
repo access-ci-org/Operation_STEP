@@ -29,10 +29,11 @@
       - yzhang14
       - zchyatte
 
-- name: Adding users to docker group
-  ansible.builtin.user:
-    name: "{{ user_list }}"
-    append: true
-    groups: docker
-    state: present
+  tasks:
 
+  - name: Adding users to docker group
+    ansible.builtin.user:
+      name: "{{ user_list }}"
+      append: true
+      groups: docker
+      state: present
