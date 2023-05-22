@@ -3,7 +3,7 @@
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
 | 10:00 | Intro to Cloud Computing | | Aaron |Room PC441 | 
-| 12:00 | Lunch | | |Room PC441 |
+| 12:00 | Lunch | | | |
 | 13:00 | Resource Provider Spotlight | Introduction to the Jetstream Resource | Jeremy |Room PC441 | 
 | 13:30 | More on Cloud Computing | | Aaron |Room PC441 | 
 | 14:00 | Break | | |Room PC441 | 
@@ -26,23 +26,15 @@
 
 ## Other Helpful Links
 
-Getting started with docker
+[Getting started with docker](https://docs.docker.com/get-started/overview/)
 
-https://docs.docker.com/get-started/overview/
+[What are Containers?](https://cloud.google.com/learn/what-are-containers)
 
-What are Containers?
-https://cloud.google.com/learn/what-are-containers
-
-What is Infrastructure as Code (IaC)?
-https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac
+[What is Infrastructure as Code (IaC)?](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)
 
 
-Terraform.io
+[Terraform.io](https://www.terraform.io)
 
-https://www.terraform.io
-
-Ansible
-
-https://www.ansible.com
+[Ansible](https://www.ansible.com)
 
 [Never Install Locally](https://www.youtube.com/watch?v=J0NuOlA2xDc)
