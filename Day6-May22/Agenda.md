@@ -21,6 +21,8 @@
 
 ## Lesson Resources (Hands on Activities)
 
+[Jestream API Tutorial](https://github.com/jlf599/JetstreamAPITutorial)
+
 
 ## Other Helpful Links
 
