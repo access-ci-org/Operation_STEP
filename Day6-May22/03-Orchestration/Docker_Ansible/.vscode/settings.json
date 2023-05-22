@@ -1,0 +1,6 @@
+{
+    "ansible.python.interpreterPath": "/opt/homebrew/bin/python3",
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/ansible/ansible-lint/main/src/ansiblelint/schemas/ansible.json#/$defs/playbook": "file:///Users/aaronwells/git/Operation_STEP/Day6-May22/03-Orchestration/Docker_Ansible/docker.yaml"
+    }
+}

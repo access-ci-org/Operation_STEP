@@ -1,0 +1,40 @@
+---
+- hosts: localhost
+  become: true
+  vars:
+    user_list:
+      - akathikar
+      - cm10
+      - ddesilva
+      - dmutlu
+      - dvahidiazar1
+      - exouser
+      - ghari
+      - gjanson
+      - jdelaterga
+      - jgallio
+      - mmonc
+      - moelgoetz
+      - nanber
+      - nngu
+      - oonoyona
+      - rnegrini
+      - tfitsum
+      - tsalau
+      - ubuntu
+      - umair30
+      - vchergarova
+      - wellsaar
+      - winona
+      - yzhang14
+      - zchyatte
+
+  tasks:
+
+  - name: Adding users to docker group
+    ansible.builtin.user:
+      name: "{{ item }}"
+      append: true
+      groups: docker
+      state: present
+    loop: "{{ user_list }}"
