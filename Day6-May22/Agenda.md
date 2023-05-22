@@ -12,7 +12,7 @@
 
 ## Presentation Materials
 
-[Intro to Cloud Computing](01-Intro%20to%20Cloud%20Computing/STEP1-Miami-Apr-2023-JS2-Wells.pptx)
+[Intro to Cloud Computing](01-Intro-to-Cloud-Computing/STEP1-Miami-Apr-2023-JS2-Wells.pptx)
 
 [Introduction to Containers](02-Containers/Wells-2023-Introduction-to-Containers.pptx)
 
